@@ -1,2 +1,2 @@
-# Bank-system-management
-c++ project
+# Bank_System_Management
+Bank System Management c++ 
