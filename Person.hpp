@@ -74,9 +74,4 @@ Person (string name,int id, string password)
 	{
 		return this->password;
 	}
-//Dis
-	~Person()
-	{
-		cout << "Done"<<endl;
-	}
 };
